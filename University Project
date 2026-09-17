@@ -1,0 +1,4 @@
+This application was idealized as a solution for a public school in Natal, Rio Grande do Norte, Brazil. 
+It was related to one of the disciplines at the University Descomplica. The idea is to create an interface 
+where items can be added and subtracted, the status saved and loaded, and also it was being researched
+if I could use PDFBox to generate listings of the items in PDF. Still to be concluded. 
